@@ -15,3 +15,5 @@ I enjoy **watching** cricket a lot since childhood, eventually it turned to be *
 * Play ground
 * Stadium
 * practice pitch
+
+[Click here to know about my favorite dish](MyDish.md)
