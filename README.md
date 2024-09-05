@@ -12,3 +12,6 @@ I enjoy **watching** cricket a lot since childhood, eventually it turned to be *
 2. MS Dhoni
 3. Rohit Sharma
 4. Virat Kohli
+* Play ground
+* Stadium
+* practice pitch
