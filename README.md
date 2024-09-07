@@ -30,3 +30,13 @@ Hyderabad is very famous for it's food, and there are lot of food vendors and re
 | Kritunga | This place is found of Spices | Hyderabad |
 | Paradise | This place is famous for Biryanis, must try! | Hyderabad |
 | Pista house | It's famous for it's unique flavor of hallem... | Hyderabad |
+
+---------------------
+
+#### Jokes Time:
+
+> People think that I must be a very strange person. This is not correct. I have the heart of a small boy. It is in a glass jar on my desk.<br>
+> *-Stephen King*
+
+> Though sleep is called our best friend, it is a friend who often keeps us waiting!<br>
+> *-Jules Verne*
