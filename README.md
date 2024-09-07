@@ -27,6 +27,6 @@ Hyderabad is very famous for it's food, and there are lot of food vendors and re
 | Name of Restaurent | Reason | Location |
 | --- | --- | ---: |
 | Mehfil | This place has it's own, unique taste of recipies | Hyderabad |
-| Kritunga | This place is found of Spices | Hyderab |
+| Kritunga | This place is found of Spices | Hyderabad |
 | Paradise | This place is famous for Biryanis, must try! | Hyderabad |
 | Pista house | It's famous for it's unique flavor of hallem... | Hyderabad |
