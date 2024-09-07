@@ -40,3 +40,20 @@ Hyderabad is very famous for it's food, and there are lot of food vendors and re
 
 > Though sleep is called our best friend, it is a friend who often keeps us waiting!<br>
 > *-Jules Verne*
+
+----------------------
+
+#### Code Section:
+
+The snippet below defines an interface `MyInterface` with `id`, `name`, and `properties`.This sets a solid foundation for organizing data. The use of the `Omit` utility type demonstrates an advanced TypeScript feature that allows for flexible type manipulation by excluding specific properties.
+
+~~~
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+type MyShortType = Omit;
+~~~
+Snippet Source <https://code.pieces.app/collections/typescript>
